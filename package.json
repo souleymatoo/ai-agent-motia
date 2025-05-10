@@ -1,6 +1,6 @@
 {
-  "name": ".",
-  "description": "",
+  "name": "create-agent",
+  "description": "Create an agent to handle customer reviews",
   "scripts": {
     "postinstall": "motia install",
     "dev": "motia dev",
